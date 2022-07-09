@@ -1,4 +1,4 @@
-using BuberDinner.Application.Services;
+using BuberDinner.Application.Services.Authentication;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace BuberDinner.Application;
